@@ -1,0 +1,6 @@
+shard_27017/mongodb.log
+shard_27018/mongodb.log
+shard_27019/mongodb.log
+shard_27017/data/
+shard_27018/data/
+shard_27019/data/
